@@ -1,0 +1,18 @@
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\bin\Debug\net6.0-windows\Sinema büfe uygulaması.exe
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\bin\Debug\net6.0-windows\Sinema büfe uygulaması.deps.json
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\bin\Debug\net6.0-windows\Sinema büfe uygulaması.runtimeconfig.json
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\bin\Debug\net6.0-windows\Sinema büfe uygulaması.dll
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\bin\Debug\net6.0-windows\Sinema büfe uygulaması.pdb
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema_büfe_uygulaması.Form1.resources
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema_büfe_uygulaması.Properties.Resources.resources
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.csproj.GenerateResource.cache
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.AssemblyInfoInputs.cache
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.AssemblyInfo.cs
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.dll
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\refint\Sinema büfe uygulaması.dll
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.pdb
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\Sinema büfe uygulaması.genruntimeconfig.cache
+C:\Users\erayy\source\repos\Sinema büfe uygulaması\Sinema büfe uygulaması\obj\Debug\net6.0-windows\ref\Sinema büfe uygulaması.dll
